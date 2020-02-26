@@ -179,7 +179,7 @@ Si deseas obtener una copia de un repositorio Git existente de algún servidor o
 `git clone https://github.com/beduExpert/Curso-Introductorio-Git-2020.git`
 
 
-![](images/image6.png)
+![](images/image8.png)
 
 Una vez creado ingresamos con el comando `cd Curso-Introductorio-Git-2020` y con el comando `ls` podremos ver el contenido del repositorio clonado.
 
