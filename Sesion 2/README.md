@@ -14,8 +14,10 @@ En ocasiones es necesario que algún tipo de archivo no se añada a Git de forma
 
 
 Para crearlo vamos a usaremos el comando `vim .gitignore` y agregaremos las instrucciones para ignorar archivos .txt para este ejemplo: `*.txt`, recordemos que para escribir en el archivo es necesario pulsar la tecla i, para guardar el archivo en vim debemos usar la tecla esc y después teclear `:x`
+
 ![](images/image12.png)
 ![](images/image51.png)
+
 Con el comando `ls -a` podremos visualizar que el archivo fue creado correctamente, procederemos a agregar el archivo al repositorio con `git add` y `git commit`
 ![](images/image7.png)
 El archivo .gitignore puede considerar las siguientes reglas:
