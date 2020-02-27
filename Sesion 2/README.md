@@ -218,6 +218,7 @@ Desplegamos las ramas existentes con el comando `git branch`
 En este caso vamos a borrar la rama **new-feature** para borrar una rama debemos usar el comando `git branch -d [nombre de la rama]`
 
 Procederemos a borrar la rama con el comando `git branch -d new-feature`
+
 ![](images/image8.png)
 
 Desplegamos las ramas existentes con el comando `git branch`, donde visualizamos únicamente dos ramas.
