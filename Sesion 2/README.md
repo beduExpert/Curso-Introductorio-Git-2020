@@ -92,6 +92,7 @@ Realizaremos un commit de nuestro archivo texto
  ![](images/image39.png)
  
 Agregaremos la terminación **.txt** con el comando `git mv texto texto.txt` y revisaremos los cambios con `git status`.
+
 ![](images/image48.png)
 
 Realizamos un commit, donde la consola nos dará el resultado que cambió un 1 archivo.
