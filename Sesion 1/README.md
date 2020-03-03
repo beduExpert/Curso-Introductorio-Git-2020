@@ -1,3 +1,5 @@
+# Sesión 1: Fundamentos de Git
+
 **Objetivo:**
 
 Familiarizarnos con los conceptos de Sistemas de Control de Versiones (VCSs, en sus siglas en inglés) y los fundamentos de Git. Entender cómo descargar Git y configurarlo e identificar si ya se encuentra instalado en nuestro sistema en el caso de sistemas operativos basados en UNIX (Mac y GNU/Linux).
