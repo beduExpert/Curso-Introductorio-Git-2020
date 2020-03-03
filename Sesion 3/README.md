@@ -60,7 +60,8 @@ En el menú de lado izquierdo seleccionaremos la opción de **SSH Keys**.
 
 Una vez realizado el click mostrará la siguiente ventana.
 
-![](images/image31.png)
+![](images/image31.png)  
+
 
 Abriremos de nuevo nuestra terminal y accedemos nuevamente a la carpeta **.ssh** por medio de `cd .ssh`, desplegamos el lista de claves con `ls` y seleccionaremos la clave pública a desplegar con **cat [nombre de la clave].pub** , en este caso sería  `cat id_rsa.pub` o `cat modulo.pub`, una vez desplegada la clave la copiaremos en nuestro portapapeles.
 
@@ -168,7 +169,8 @@ Abrimos nuestra terminal o git bash y entramos al directorio **.ssh** con el com
 
 ![](images/image4.png)
 
-De regreso a nuestro navegador en la pestaña de configuración de ssh de Github, realizamos click sobre el botón verde **New SSH Key**.
+De regreso a nuestro navegador en la pestaña de configuración de ssh de Github, realizamos click sobre el botón verde **New SSH Key**.  
+
 
 ![](images/image26.png)
 
