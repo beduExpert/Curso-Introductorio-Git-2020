@@ -19,5 +19,5 @@ Este módulo inicia describiendo algunos conceptos básicos sobre las herramient
  - [Sesión 4](): Herramientas de Git y personalización
 
  
-> El contenido incluido en este módulo fue basado en el libro [Git Pro](https://git-scm.com/book/es/v2) , bajo la licencia Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.   
+> El contenido incluido en este módulo fue basado en el libro [Git Pro](https://git-scm.com/book/es/v2) , bajo la licencia Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)   
 
