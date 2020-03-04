@@ -109,7 +109,7 @@ Abrimos nuestra terminal o git bash, e ingresamos a la carpeta donde tenemos nue
 
 Ahora que ya tienes un repositorio remoto Git configurado como punto de trabajo para que los desarrolladores compartan su código, y además ya conoces los comandos básicos de Git para usar en local, verás cómo se puede utilizar alguno de los flujos de trabajo distribuido que Git permite.
 
-Uno de los principales comando que utilizaras en el manejo de repositorios distribuidos es el comando [git pull](https://www.youtube.com/watch?v=ivQbQ5r_03I) esta instrucción lo que nos permite realizar es obtener los cambios realizados en el repositorio remoto, tenemos que tener en cuenta que cuando trabajamos de forma distribuida en muchas ocasiones estaremos trabajando sobre el mismo archivo que otros programadores por lo que siempre será importante descargar dichos cambios para evitar sobreescribir en ellos. Realizaremos **git pull** de nuestro repositorio en gitlab ubicándonos en el directorio de nuestro repositorio local.
+Uno de los principales comando que utilizaras en el manejo de repositorios distribuidos es el comando **[git pull](https://www.youtube.com/watch?v=ivQbQ5r_03I) (Video tutorial)** esta instrucción lo que nos permite realizar es obtener los cambios realizados en el repositorio remoto, tenemos que tener en cuenta que cuando trabajamos de forma distribuida en muchas ocasiones estaremos trabajando sobre el mismo archivo que otros programadores por lo que siempre será importante descargar dichos cambios para evitar sobreescribir en ellos. Realizaremos **git pull** de nuestro repositorio en gitlab ubicándonos en el directorio de nuestro repositorio local.
 
 Usaremos el comando `git pull origin master` (El uso de origin master solo es necesario la primera ocasión que obtenemos datos del repositorio remoto).
 
@@ -133,7 +133,7 @@ Usaremos el comando `git log --oneline --decorate --graph --all` para visualizar
 
 ### Git Push
 
-Para actualizar el repositorio remoto con los archivos que tengamos en nuestro repositorio local haremos uso del comando [git push](https://www.youtube.com/watch?v=jgeLj45G0tk), como se mencionó antes cuando trabajemos en repositorios colaborativos debemos tener cuidado de siempre primero descarga la versión más reciente del repositorio remoto con **git pull**, ya que si no efectuamos este paso podríamos sobre escribir los cambios que alguien más realizó.
+Para actualizar el repositorio remoto con los archivos que tengamos en nuestro repositorio local haremos uso del comando **[git push](https://www.youtube.com/watch?v=jgeLj45G0tk) (video tutorial)**, como se mencionó antes cuando trabajemos en repositorios colaborativos debemos tener cuidado de siempre primero descarga la versión más reciente del repositorio remoto con **git pull**, ya que si no efectuamos este paso podríamos sobre escribir los cambios que alguien más realizó.
 
 Como buena práctica, realizaremos el comando `git pull`, antes de actualizar el repositorio remoto.
 
