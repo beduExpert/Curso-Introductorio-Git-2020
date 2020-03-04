@@ -46,19 +46,22 @@ Lo primero que debes realizar es crear una cuenta en [gitlab.com](https://gitlab
 
 ![](images/image14.png)
 
-Una vez creada nuestra cuenta realizamos login y nos dirigimos a la parte superior derecha donde se encuentra nuestro usuario.
+#### Una vez creada nuestra cuenta realizamos login y nos dirigimos a la parte superior derecha donde se encuentra nuestro usuario.  
 
-![](images/image12.png)
 
-Se desplegará un menú y seleccionamos la opción de Settings, que nos mostrara la siguiente ventana
+![](images/image12.png)  
+
+
+#### Se desplegará un menú y seleccionamos la opción de Settings, que nos mostrara lo siguiente:
 
 ![](images/image20.png)
-
-En el menú de lado izquierdo seleccionaremos la opción de **SSH Keys**.
+  
+  
+#### En el menú de lado izquierdo seleccionaremos la opción de SSH Keys.  
 
 ![](images/image33.png)
-
-Una vez realizado el click mostrará la siguiente ventana.
+ 
+#### Una vez realizado el click mostrará lo siguiente:
 
 ![](images/image31.png)  
 
@@ -72,7 +75,7 @@ Regresaremos a la ventana donde tenemos abierto gitlab.com en nuestro navegador 
 
 ![](images/image27.png)
 
-Gitlab mostrará la siguiente pantalla:
+#### Gitlab mostrará la siguiente pantalla:
 
 ![](images/image8.png)
 
@@ -88,7 +91,7 @@ Nos desplegará una pantalla donde podremos introducir el nombre del proyecto, u
 
 ![](images/image28.png)
 
-La siguiente pantalla nos mostrará la vista general de nuestro proyecto.
+#### Nos mostrará la vista general de nuestro proyecto.
 
 ![](images/image29.png)
 
